@@ -1,5 +1,5 @@
 import React from "react";
-import SearchName from "../searchName";
+import SearchName from "../searchName/searchName";
 import "./nav.css";
 
 function Nav() {
