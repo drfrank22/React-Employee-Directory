@@ -21,7 +21,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://drfrank22.github.io/React-Employee-Directory",
+  "homepage": "https://drfrank22.github.io/React-Employee-Directory/",
   "eslintConfig": {
     "extends": [
       "react-app",
