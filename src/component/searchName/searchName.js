@@ -6,7 +6,7 @@ const SearchName= () => {
     const context = useContext(DataAreaContext);
 
     return (
-        <div className="searchbox">
+        <div className="search-field">
             <div className="input-group">
                 <div className="input-group-prepend">
                     <span className="input-group-text" id="">

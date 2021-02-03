@@ -1,0 +1,8 @@
+.search-field button {
+    border: 1px solid #03470c;
+}
+
+.search-field button:hover {
+    background-color: #03470c;
+    color: #49dff3;
+}
