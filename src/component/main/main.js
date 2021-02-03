@@ -1,6 +1,6 @@
 import React from "react";
 import DataArea from "../dataArea/dataArea";
-import "./main.css";
+// import "./main.css";
 
 function Main() {
     return (
